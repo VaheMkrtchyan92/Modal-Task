@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0974020-8754-4099-a8d8-5d00a9f81078" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Task/src/Modal.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Task/src/modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task" beforeDir="false" afterPath="$PROJECT_DIR$/Task" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Task/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Task/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Task/src/App.js" afterDir="false" />
@@ -161,12 +155,12 @@
       <updated>1556196642089</updated>
       <workItem from="1556196647276" duration="26201000" />
       <workItem from="1556260655547" duration="274000" />
-      <workItem from="1556261315288" duration="378000" />
+      <workItem from="1556261315288" duration="829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26853000" />
+    <option name="totallyTimeSpent" value="27304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -174,7 +168,7 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
